@@ -11,9 +11,9 @@ This project is a password generator built using React. It allows users to gener
 - **Include Numbers:** Toggle to include numbers in the generated password.
 - **Include Special Characters:** Toggle to include special characters.
 - **Copy to Clipboard:** Easily copy the generated password with the "COPY" button.
-
-## Installation
 ```
+## Installation
+
 
 1. Clone the repository:
    ```bash
@@ -48,6 +48,6 @@ This project is open-source under the [MIT License](LICENSE).
 ---
 
 Happy password generating! 😊
-```
+
 
 

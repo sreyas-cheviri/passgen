@@ -50,4 +50,4 @@ This project is open-source under the [MIT License](LICENSE).
 Happy password generating! 😊
 ```
 
-You can modify it as needed to reflect any updates in your project!
+

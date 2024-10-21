@@ -13,6 +13,7 @@ This project is a password generator built using React. It allows users to gener
 - **Copy to Clipboard:** Easily copy the generated password with the "COPY" button.
 
 ## Installation
+```
 
 1. Clone the repository:
    ```bash
